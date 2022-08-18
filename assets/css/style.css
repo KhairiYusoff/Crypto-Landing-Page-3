@@ -43,7 +43,7 @@ ul {
   padding: 0;
 }
 
-.img-responsize {
+.img-responsive {
   width: 100%;
 }
 
@@ -53,6 +53,10 @@ ul {
 
 .icon64 {
   width: 64px;
+}
+
+.spacer-section {
+  padding: 0 0 5%;
 }
 
 .spacer10 {
@@ -104,6 +108,10 @@ ul {
 .row {
   display: flex;
   flex-wrap: wrap;
+}
+
+.jc {
+  justify-content: space-between;
 }
 
 .ai-center {
@@ -168,4 +176,27 @@ ul {
 .col12 {
   width: 97%;
   margin: 1.5%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: 0px solid black;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 50px;
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
