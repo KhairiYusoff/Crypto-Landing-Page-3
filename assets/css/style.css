@@ -40,6 +40,46 @@ ul {
   width: 64px;
 }
 
+.spacer10 {
+  margin-top: 10px;
+}
+
+.spacer20 {
+  margin-top: 20px;
+}
+
+.spacer30 {
+  margin-top: 30px;
+}
+
+.spacer40 {
+  margin-top: 40px;
+}
+
+.spacer50 {
+  margin-top: 50px;
+}
+
+.spacer60 {
+  margin-top: 60px;
+}
+
+.spacer70 {
+  margin-top: 70px;
+}
+
+.spacer80 {
+  margin-top: 80px;
+}
+
+.spacer90 {
+  margin-top: 90px;
+}
+
+.spacer100 {
+  margin-top: 100px;
+}
+
 .container {
   max-width: 1200px;
   width: 90%;
