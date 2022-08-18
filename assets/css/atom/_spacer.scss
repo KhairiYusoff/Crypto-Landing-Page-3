@@ -7,3 +7,9 @@
     margin-top: $i * 10px;
   }
 }
+
+@for $i from 1 through 10 {
+  .spacer#{$i*5} {
+    margin-top: $i * 5px;
+  }
+}
