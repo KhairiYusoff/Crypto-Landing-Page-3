@@ -1,0 +1,19 @@
+$primarysize: 16px;
+$ratio: 1.2;
+
+h1 {
+  font-size: (((($primarysize) * $ratio) * $ratio) * $ratio) * $ratio;
+}
+h2 {
+  font-size: ((($primarysize) * $ratio) * $ratio) * $ratio;
+}
+h3 {
+  font-size: (($primarysize) * $ratio) * $ratio;
+}
+h4 {
+  font-size: ($primarysize) * $ratio;
+}
+
+h5 {
+  font-size: $primarysize;
+}
