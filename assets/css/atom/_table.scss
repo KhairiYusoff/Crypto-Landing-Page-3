@@ -3,7 +3,6 @@ table {
   border-collapse: collapse;
   border: 1px solid rgb(201, 195, 195);
 }
-
 th {
   border: 1px solid rgb(201, 195, 195);
   padding: 20px;
@@ -11,4 +10,13 @@ th {
 td {
   border: 1px solid rgb(201, 195, 195);
   padding: 10px;
+}
+.basic {
+  background-color: #e6e6fa;
+}
+.std {
+  background-color: #bdbdf2;
+}
+.adv {
+  background-color: #9595ea;
 }

@@ -176,6 +176,18 @@ td {
   padding: 10px;
 }
 
+.basic {
+  background-color: #e6e6fa;
+}
+
+.std {
+  background-color: #bdbdf2;
+}
+
+.adv {
+  background-color: #9595ea;
+}
+
 .container {
   max-width: 1200px;
   width: 90%;
