@@ -1,17 +1,16 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 
-.menu a {
+a {
   text-decoration: none;
-  margin: 10px;
+  margin: 0 10px 0 0;
   color: black;
 }
 
-.register a {
-  margin: 10px;
-  text-decoration: none;
-  color: black;
+a:hover {
+  color: #9595ea;
 }
 
 h1,
@@ -186,6 +185,29 @@ td {
 
 .adv {
   background-color: #9595ea;
+}
+
+.footer {
+  padding: 50px;
+  background-color: black;
+}
+.footer a,
+.footer h3,
+.footer label {
+  color: white;
+  margin-bottom: 5px;
+}
+.footer p {
+  color: white;
+  font-size: 12px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
 }
 
 .container {
