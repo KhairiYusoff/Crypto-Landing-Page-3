@@ -314,4 +314,22 @@ td {
   text-decoration: none;
   border-radius: 50px;
   cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+  .menu {
+    display: none;
+  }
+  .col6 {
+    width: 100%;
+  }
+  .col4 {
+    width: 100%;
+  }
+  .col3 {
+    width: 100%;
+  }
+  .col5 {
+    width: 100%;
+  }
 }/*# sourceMappingURL=style.css.map */
